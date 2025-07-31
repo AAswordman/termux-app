@@ -37,3 +37,11 @@ local.properties
 .swp
 ehthumbs.db
 Thumbs.db
+
+# Crashlytics
+*.zip
+*.jar
+
+# Signing key
+/keystore.properties
+/app/*.jks
